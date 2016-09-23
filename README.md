@@ -1,1 +1,0 @@
-# Tab-s-con-imagenes-en-android-studio
